@@ -1,0 +1,54 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jamieflores.github.io" resolutions="1x" timestamp="1512103708438">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="492476821" ref="index:contact:video:resume"/>
+    <file name="index.css" crc="4188425123" ref="index"/>
+    <file name="contact.css" crc="4250785347" ref="contact"/>
+    <file name="video.css" crc="3817996422" ref="video"/>
+    <file name="resume.css" crc="170921293" ref="resume"/>
+  </folder>
+  <folder name="assets">
+    <file name="floresresume.pdf" crc="284183571" seo="true" mt="1512088162000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>resume:phone>video:phone>contact:tablet>index:tablet>resume:tablet>video:tablet>contact:index:contact:video:resume"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>resume:phone>video:phone>contact:tablet>index:tablet>resume:tablet>video:tablet>contact:index:contact:video:resume"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>resume:phone>video:phone>contact:tablet>index:tablet>resume:tablet>video:tablet>contact:index:contact:video:resume"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>resume:phone>video:phone>contact:tablet>index:tablet>resume:tablet>video:tablet>contact:index:contact:video:resume"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>resume:phone>video:phone>contact:tablet>index:tablet>resume:tablet>video:tablet>contact:index:contact:video:resume"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>resume:phone>video:phone>contact:tablet>index:tablet>resume:tablet>video:tablet>contact:index:contact:video:resume"/>
+    <file name="webpro.js" crc="242022427" ref="phone>contact:contact"/>
+    <file name="form_check.php" crc="62300408" ref="phone>contact"/>
+    <file name="form_process.php" crc="91775217" ref="phone>contact"/>
+    <file name="form-u768.php" crc="3814817737" ref="phone>contact"/>
+    <file name="form-u286.php" crc="295233645" ref="contact"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="video.css" crc="469831383" ref="tablet>video"/>
+      <file name="contact.css" crc="469831383" ref="tablet>contact"/>
+      <file name="index.css" crc="469831383" ref="tablet>index"/>
+      <file name="resume.css" crc="469831383" ref="tablet>resume"/>
+    </folder>
+    <file name="index.html" crc="289409683" seo="true" mt="1512093941556" redirect="false"/>
+    <file name="resume.html" crc="298966668" seo="true" mt="1512103369584" redirect="false"/>
+    <file name="video.html" crc="4140366289" seo="true" mt="1512093941556" redirect="false"/>
+    <file name="contact.html" crc="293588171" seo="true" mt="1512093941557" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="video.css" crc="378667973" ref="phone>video"/>
+      <file name="contact.css" crc="4138939606" ref="phone>contact"/>
+      <file name="index.css" crc="378667973" ref="phone>index"/>
+      <file name="resume.css" crc="378667973" ref="phone>resume"/>
+    </folder>
+    <file name="index.html" crc="230249017" seo="true" mt="1512093940867" redirect="false"/>
+    <file name="resume.html" crc="4259460376" seo="true" mt="1512103369585" redirect="false"/>
+    <file name="video.html" crc="133395707" seo="true" mt="1512093941011" redirect="false"/>
+    <file name="contact.html" crc="4178499103" seo="true" mt="1512095073779" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="311837465" seo="true" mt="1512095253624" redirect="true"/>
+  <file name="contact.html" crc="4253273079" seo="true" mt="1512103484053" redirect="true"/>
+  <file name="video.html" crc="518000878" seo="true" mt="1512095253624" redirect="true"/>
+  <file name="resume.html" crc="279980775" seo="true" mt="1512103369582" redirect="true"/>
+</manifest>
